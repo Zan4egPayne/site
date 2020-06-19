@@ -1,0 +1,84 @@
+Uri: https://m1chnt.design/
+File Name: c:\Downloaded Web Sites\m1chnt.design\index.htm
+Content Type: text/html
+
+Uri: https://m1chnt.design/cursor2.cur
+File Name: c:\Downloaded Web Sites\m1chnt.design\cursor2.cur
+Content Type: 
+
+Uri: https://m1chnt.design/animate.css
+File Name: c:\Downloaded Web Sites\m1chnt.design\animate.css
+Content Type: text/css
+
+Uri: https://m1chnt.design/assets/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://m1chnt.design/assets/css/style.css
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\css\style.css
+Content Type: text/css
+
+Uri: https://m1chnt.design/assets/css/s.css
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\css\s.css
+Content Type: text/css
+
+Uri: https://m1chnt.design/assets/css/color.css
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\css\color.css
+Content Type: text/css
+
+Uri: https://m1chnt.design/assets/img/bg/icon.jpg
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\img\bg\icon.jpg
+Content Type: image/jpeg
+
+Uri: https://m1chnt.design/index.html
+File Name: c:\Downloaded Web Sites\m1chnt.design\index.html
+Content Type: text/html
+
+Uri: https://m1chnt.design/assets/js/title.js
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\js\title.js
+Content Type: application/javascript
+
+Uri: https://m1chnt.design/1.mp3
+File Name: c:\Downloaded Web Sites\m1chnt.design\1.mp3
+Content Type: audio/mpeg
+
+Uri: https://m1chnt.design/assets/mouse.js
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\mouse.js
+Content Type: application/javascript
+
+Uri: https://m1chnt.design/assets/js/shake.js
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\js\shake.js
+Content Type: application/javascript
+
+Uri: https://m1chnt.design/assets/js/jquery-2.1.4.min.js
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\js\jquery-2.1.4.min.js
+Content Type: application/javascript
+
+Uri: https://m1chnt.design/assets/js/html5shiv.min.js
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\js\html5shiv.min.js
+Content Type: application/javascript
+
+Uri: https://m1chnt.design/assets/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://m1chnt.design/assets/js/vendor.js
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\js\vendor.js
+Content Type: application/javascript
+
+Uri: https://m1chnt.design/assets/js/variable.js
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\js\variable.js
+Content Type: application/javascript
+
+Uri: https://m1chnt.design/assets/js/main.js
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://m1chnt.design/assets/css/vendor.css
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\css\vendor.css
+Content Type: text/css
+
+Uri: https://m1chnt.design/assets/img/bg/bg.jpg
+File Name: c:\Downloaded Web Sites\m1chnt.design\assets\img\bg\bg.jpg
+Content Type: image/jpeg
+
